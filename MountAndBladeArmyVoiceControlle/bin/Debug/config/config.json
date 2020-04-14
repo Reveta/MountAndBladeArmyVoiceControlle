@@ -1,0 +1,118 @@
+{
+  "Config": {
+    "Infantry": [
+      "1"
+    ],
+    "Archers": [
+      "2"
+    ],
+    "Cavalry": [
+      "3"
+    ],
+    "HorseBowman": [
+      "4"
+    ],
+    "Band": [
+      "5"
+    ],
+    "Everybody": [
+      "0"
+    ],
+    "ToPosition": [
+      "f1",
+      "f1"
+    ],
+    "FollowMe": [
+      "f1",
+      "f2"
+    ],
+    "Attack": [
+      "f1",
+      "f3"
+    ],
+    "Charge": [
+      "f1",
+      "f3"
+    ],
+    "Advance": [
+      "f1",
+      "f4"
+    ],
+    "Fallback": [
+      "f1",
+      "f5"
+    ],
+    "Stop": [
+      "f1",
+      "f6"
+    ],
+    "Retreat": [
+      "f1",
+      "f7"
+    ],
+    "FaceDirection": [
+      "f2",
+      "f1"
+    ],
+    "FaceEnemy": [
+      "f2",
+      "f2"
+    ],
+    "ToLine": [
+      "f3",
+      "f1"
+    ],
+    "WallOfShields": [
+      "f3",
+      "f2"
+    ],
+    "Loose": [
+      "f3",
+      "f3"
+    ],
+    "ToCircle": [
+      "f3",
+      "f4"
+    ],
+    "ToSquare": [
+      "f3",
+      "f5"
+    ],
+    "ToSkein": [
+      "f3",
+      "f6"
+    ],
+    "toColumn": [
+      "f3",
+      "f7"
+    ],
+    "Scatter": [
+      "f3",
+      "f8"
+    ],
+    "HoldFire": [
+      "f4"
+    ],
+    "FireAtWill": [
+      "f4"
+    ],
+    "Dismount": [
+      "f5"
+    ],
+    "Mount": [
+      "f5"
+    ],
+    "CommandOn": [
+      "f6"
+    ],
+    "CommandOff": [
+      "f6"
+    ],
+    "Transfer": [
+      "f7"
+    ],
+    "Here": [
+      "lb"
+    ]
+  }
+}
