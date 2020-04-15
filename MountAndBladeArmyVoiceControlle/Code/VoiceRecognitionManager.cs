@@ -20,8 +20,8 @@ namespace MountAndBladeArmyVoiceControlle.Code {
 			grammarBuilder.Append(new Choices(this._phrases));
 
 			this._speechRecognition = new SpeechRecognitionEngine();
-			this._dictationGrammar = new DictationGrammar();
-			this._speechRecognition.LoadGrammar(this._dictationGrammar);
+			// this._dictationGrammar = new DictationGrammar();
+			// this._speechRecognition.LoadGrammar(this._dictationGrammar);
 			this._speechRecognition.SetInputToDefaultAudioDevice();
 			this._speechRecognition.UnloadAllGrammars();
 			this._speechRecognition.LoadGrammar(new Grammar(grammarBuilder)); //загружаем "грамматику"
